@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Supermercado+One&display=swap');
+
+body{
+    background-image: url("/img/background.jpg");
+    background-size: 40%;
+    color: white;
+    text-align: center;
+    font-family: 'Supermercado One', cursive;
+    font-size: 150%;
+}
+
+#align{
+    margin: 5% 43%;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+#roll{
+    margin: auto;
+    font-size: 100%;
+    border-radius: 5%;
+}
+
+#diceImage {
+    border-radius:5%;
+}
+
+h2{
+    text-decoration: underline;
+}
